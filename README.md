@@ -1,7 +1,4 @@
-# RL-CLIP Data Collection and Processing Pipeline
-
-This is a un-refactor version of the pipeline used to collect and process data for the RL-CLIP.
-
+# HARIBOSS Data Collection and Processing Pipeline
 ## 1. Clean Hariboss data
 #### 1. Download Hariboss then clean 
 You can download the original and up-to-date HARIBOSS dataset in CSV format from the [HARIBOSS website](https://hariboss.pasteur.cloud/complexes/). To generate the new `hariboss_clean.csv` file, run the `clean_hariboss.py` script as follows:
