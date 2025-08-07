@@ -1,0 +1,14 @@
+2024-07-09 19:34:00 [INFO] =====================================================================
+2024-07-09 19:34:00 [INFO] Complex ID: 1aju, RNA Chain ID: A, Ligand Chain ID: B, Ligand ID: ARG, Ligand Resnum: 47
+2024-07-09 19:34:00 [INFO] Ligand 1aju_B_ARG in Complex 1aju is Found
+2024-07-09 19:34:01 [INFO] RNA Chain A in PDB complex 1aju with length 30
+2024-07-09 19:34:03 [INFO] =====================================================================
+2024-07-09 19:34:03 [INFO] Complex ID: 6ymj, RNA Chain ID: C, Ligand Chain ID: R, Ligand ID: ADN, Ligand Resnum: 102
+2024-07-09 19:34:03 [INFO] Ligand 6ymj_R_ADN in Complex 6ymj is Missing, other information: RNA Chain ID: C, Ligand Chain ID: R, Ligand ID: ADN, ligand_resnum: 102
+2024-07-09 19:34:03 [INFO] =====================================================================
+2024-07-09 19:34:03 [INFO] Complex ID: 6ymj, RNA Chain ID: I, Ligand Chain ID: X, Ligand ID: ADN, Ligand Resnum: 102
+2024-07-09 19:34:03 [INFO] Ligand 6ymj_X_ADN in Complex 6ymj is Missing, other information: RNA Chain ID: I, Ligand Chain ID: X, Ligand ID: ADN, ligand_resnum: 102
+2024-07-09 19:34:03 [INFO] =====================================================================
+2024-07-09 19:34:03 [INFO] Complex ID: 6ymj, RNA Chain ID: O, Ligand Chain ID: EA, Ligand ID: ADN, Ligand Resnum: 102
+2024-07-09 19:34:03 [INFO] Segment chain ID EA not found in the structure.
+2024-07-09 19:34:03 [INFO] Dataset Generation Completed
